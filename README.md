@@ -1,5 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Anaswara!</h2>
-<p align="center">🎓 Computer Science Engineering student specializing in Cyber Security<br>📍 From Malappuram, Kerala</p>
+a<h2 align="center">Hi there 👋, I'm Anaswara!</h2>
 
 
 <div align="center">
